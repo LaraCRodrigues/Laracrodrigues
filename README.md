@@ -1,8 +1,9 @@
-## Lara Cibele 👋
+# 👩🏻‍💻 Lara Cibele
 
 **`Desenvolvedora FullStack`**
 Olá, me chamo Lara Cibele Rodrigues , tenho 20 naos e sou de Camaçari cidade Metropolitana da Bahia. Conclui meu curso técnico de Ánalise e Desenvolvimento de Sistemas no Senai Em Lauro de Freitas onde tive meu primeiro contato com programação e descobri uma paixão oculta por desenvolvimento de interfaces e de projetos  . Atualmente estou cursando Ciências da Computação na Unijorge, Aqui esta meu Linkedin para saber minhas informações profissionais "[Lara Cibele Rodrigues] (https://www.linkedin.com/in/
 lara-cibele-rodrigues-1b4147251)". 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -31,16 +32,6 @@ lara-cibele-rodrigues-1b4147251)".
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -49,8 +40,6 @@ lara-cibele-rodrigues-1b4147251)".
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Git" 
@@ -72,7 +61,7 @@ lara-cibele-rodrigues-1b4147251)".
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github.com/LaraCRodrigues" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
