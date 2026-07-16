@@ -1,75 +1,44 @@
-# 👩🏻‍💻 Lara Cibele
+# 👩🏻‍💻 Lara Cibele Rodrigues
 
-**`Desenvolvedora FrontEnd`**
-Olá, me chamo Lara Cibele Rodrigues , tenho 21 anos. Conclui meu curso técnico de Ánalise e Desenvolvimento de Sistemas no Senai Em Lauro de Freitas onde tive meu primeiro contato com programação e descobri uma paixão oculta por desenvolvimento de interfaces e de projetos  . Atualmente estou cursando Ciências da Computação na Unijorge. Aqui esta meu Linkedin para saber minhas informações profissionais "[Lara Cibele Rodrigues](https://www.linkedin.com/in/
-lara-cibele-rodrigues-1b4147251)". 
+**`Desenvolvedora Front-end`**
+
+Olá! Me chamo **Lara Cibele Rodrigues**, tenho 21 anos e sou apaixonada por tecnologia e desenvolvimento de interfaces.
+
+Concluí o curso técnico em **Análise e Desenvolvimento de Sistemas** pelo **SENAI Lauro de Freitas**, onde tive meu primeiro contato com programação e descobri minha paixão pelo desenvolvimento Front-end e pela criação de interfaces modernas e intuitivas.
+
+Atualmente curso **Ciência da Computação** na **UNIJORGE**, buscando ampliar meus conhecimentos em desenvolvimento de software, boas práticas de programação e novas tecnologias.
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/lara-cibele-rodrigues-1b4147251
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+<p align="left">
+<img alt="HTML" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="Bootstrap" title="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+> **Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub.**
+
+<p align="center">
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br"
 />
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lara&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
-  />
-
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lara&theme=cobalt&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=cobalt&langs_count=8&locale=pt-br"
+/>
+</p>
