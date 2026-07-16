@@ -29,7 +29,7 @@ https://www.linkedin.com/in/lara-cibele-rodrigues-1b4147251
 
 ## 📊 Estatísticas do GitHub
 
-> **Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub.**
+>` LaraCRodrigues` 
 
 <p align="center">
 <img
@@ -41,4 +41,9 @@ https://www.linkedin.com/in/lara-cibele-rodrigues-1b4147251
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=cobalt&langs_count=8&locale=pt-br"
 />
+</p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=social"/>
 </p>
