@@ -29,7 +29,17 @@ https://www.linkedin.com/in/lara-cibele-rodrigues-1b4147251
 
 ## 📊 Estatísticas do GitHub
 
->` LaraCRodrigues` 
+<p align="center">
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=LaraCRodrigues&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCRodrigues&layout=compact&theme=cobalt&langs_count=8&locale=pt-br"
+/>
+</p>
 
 <p align="center">
 <img
@@ -44,6 +54,6 @@ https://www.linkedin.com/in/lara-cibele-rodrigues-1b4147251
 </p>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=social"/>
+    <img src="https://komarev.com/ghpvc/?username=LaraCRodrigues&color=blue" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/LaraCRodrigues?style=social"/>
 </p>
