@@ -30,27 +30,24 @@ https://www.linkedin.com/in/lara-cibele-rodrigues-1b4147251
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img
+  <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=LaraCRodrigues&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br"
-/>
+  />
 
-<img
+  <img
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCRodrigues&layout=compact&theme=cobalt&langs_count=8&locale=pt-br"
-/>
+  />
 </p>
 
-<p align="center">
-<img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br"
-/>
 
-<img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=cobalt&langs_count=8&locale=pt-br"
-/>
+
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LaraCRodrigues&theme=cobalt&locale=pt_BR" />
 </p>
 
 <p align="left">
