@@ -27,10 +27,13 @@ https://www.linkedin.com/in/lara-cibele-rodrigues-1b4147251
 
 ---
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraCRodrigues&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCRodrigues&layout=compact&theme=tokyonight"/>
+</p>
+
+
 ## 📊 Estatísticas do GitHub
-
-
-
 
 
 
